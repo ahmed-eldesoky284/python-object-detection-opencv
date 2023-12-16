@@ -1,6 +1,5 @@
-# facebook: https://www.facebook.com/salar.brefki/
-# instagram: https://www.instagram.com/salarbrefki/
-
+# facebook: https://www.facebook.com/TechLabtechnology
+# instagram: https://www.instagram.com/tech_lab_technology
 import cv2
 
 ####### From Image #######
